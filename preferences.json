@@ -1,2 +1,31 @@
-I absolutely love every season of the year, so I glad that live in Beldrus :D iI am meloman, I can listen to pop-music, deep-house, electronic, rock, death-core, hard-core, rap-core. Usually, I watch some kind of movie, but I can't stand horror movie. despite my preferences of movie, sometime i like reading horror book. I dream of visit Czech, Spain, Georgia. 
+
+
+{
+"Preferences" : [ 
+    {  "season":"Abdolotely love every season",
+
+      "Music" : 
+{      "janre" : "iammeloman",
+      "janre2" : "pop",
+      "janre" : "hardcore_deathcore_rapcore",
+      "janre" : "deephouse"
+      }, 
+
+      "movie" : 
+{      "genre": "itdoesentmetter",
+       "dontlike": "horrormovie" 
+       },
+      "country" :
+{      "cntr1": "Czech",
+       "cntry": "Spain",
+       "cntr3": "Georgia" 
+}   
+  } ] 
+}
+
+
+
+
+
+
 

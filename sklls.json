@@ -1,2 +1,20 @@
-On Vadim's Ksendzov course I want to lern a lot of new information, e.g. about Jmeter GitBash script, terminal line, Postman, Charlie, SQL, Xcode.
+
+{
+"Myskills_after_course" : [ 
+    {  "I_wish_i_could_work_with":"example_below",
+
+      "sklls": 
+{      "sklls1" : "Jmeter",
+      "sklls2" : "GitBash",
+      "sklls3" : "some_script",
+      "sklls4" : "AndroidStudio",
+      "sklls5": "Postman",
+      "sklls6": "Xcode"  
+}   
+  } ] 
+}
+
+
+
+
 

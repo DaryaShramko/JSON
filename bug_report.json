@@ -1,8 +1,23 @@
+{
+	"bug_report": [{
+		"i_found_bug": "report_below",
+		"bugs": {
+			"summary": "PHP_error_appears_in_window_after_input_SQL_request_in_lield_of_login",
+			"description": "if_enter_SQL_request_in_lield_of_login_and_press_Поехали_button_PHP_error",
+			"Requirement_ID": "no",
+			"Reproduced_on": "Chrome",
+			"Reproducibility": "always",
+			"Workaround": "no",
+			"steps_to_reproduce": "Open_page_via_URL_http:megatask_Enter_DB_request_(SELECT_FROM_users_WHERE_u_ul_LIKE_in_field_Enter_correct_password__in_field_Press_Поехали_button",
+			"severity": "minor",
+			"priority": "no"
+		}
+	}]
+}
 
-Ситуация	Summary (RUS)	Summary (ENG)
-Крах клиентской части приложения приводит к необратимой потере сессии с сервером и потере всех несохранённых данных (сессия при повторном соединении не возобновляется, а начинается заново).	Необратимая потеря сессии и всех несохранённых данных при крахе клиента.	Irreversible session loss and all unsaved data loss on client crash.
-Приложение валится с ошибкой обращения к памяти при открытии пятого файла (четыре уже открыты).	Ошибка доступа к памяти при открытии пятого активного файла.	Memory access failure on 5th active file opening.
-Когда пользователь отправляет анкету, размер которой превышает допустимый, анкета загружается 5 секунд, а затем появляется сообщение «Извините! Письмо для HR не было отправлено! Пожалуйста, повторите попытку позже!» вместо сообщения «Размер анкеты не должен превышать 5Mb».	Неверное сообщение об ошибке при отправке слишком большой анкеты.	Wrong error message on sending too big application form.
-В профиле пользователя можно указать дату рождения, находящуюся в будущем по отношению к текущей дате.	Приложение принимает даты рождения из будущего.	Application accepts dates of birth from the future.
-После истечения сессии по таймауту для повторной авторизации пользователю приходится вручную чистить куки в браузере.	Неверная обработка куки при завершении сессии по таймауту.	Wrong cookies handling on session timeout.
-.
+
+
+
+
+
+
